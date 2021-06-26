@@ -1,5 +1,6 @@
 new
 file
+apple
 banana
 is
 lapa
