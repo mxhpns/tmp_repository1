@@ -2,7 +2,6 @@ new
 file
 apple
 banana
-is
 lapa
 something
 here
